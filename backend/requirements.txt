@@ -16,3 +16,6 @@ pwdlib[argon2]
 python-multipart
 
 httpx
+
+pytest
+pytest-asyncio
